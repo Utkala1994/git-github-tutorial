@@ -5,3 +5,6 @@ MY TO DO LIST
 4.Watch Youtuber Videos
 5.I am learning Devops and Cloud
 6.I am learong cybersecurity
+7.I am learning AWS services
+8. I am learing GCP Services
+9. I am learing Cloud Technology
